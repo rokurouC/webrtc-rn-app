@@ -10,11 +10,11 @@ It's just for fun, cooperation is welcomem :)
 ![image](https://github.com/rokurouC/webrtc-rn-app/blob/master/src/screenshots/screenshot01.jpg)
 
 ## Prerequisites
-Xcode
-Android Studio
-Node.js
-Yarn
-[Firebase ios and android project configuration.(put google-services.js in the android project and GoogleService-Info.plist in iOS project.)](https://firebase.google.com/)
+- Xcode
+- Android Studio
+- Node.js
+- Yarn
+- [Firebase ios and android project configuration.(put google-services.js in the android project and GoogleService-Info.plist in iOS project.)](https://firebase.google.com/)
 
 ## Setup & Run
 
