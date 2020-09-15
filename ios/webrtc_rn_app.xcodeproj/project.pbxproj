@@ -11,7 +11,6 @@
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		1765691124DECA2A005911A7 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 1765690F24DECA2A005911A7 /* GoogleService-Info.plist */; };
 		17C9FBD024DE867B00E6BFB9 /* WebRTC.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 17C9FBCF24DE867A00E6BFB9 /* WebRTC.framework */; };
 		2D02E4BC1E0B4A80006451C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
@@ -60,7 +59,6 @@
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = webrtc_rn_app/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = webrtc_rn_app/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = webrtc_rn_app/main.m; sourceTree = "<group>"; };
-		1765690F24DECA2A005911A7 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		17C9FBC924DE864B00E6BFB9 /* RCTWebRTC.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTWebRTC.xcodeproj; path = "../node_modules/react-native-webrtc/ios/RCTWebRTC.xcodeproj"; sourceTree = "<group>"; };
 		17C9FBCF24DE867A00E6BFB9 /* WebRTC.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebRTC.framework; path = "../node_modules/react-native-webrtc/ios/WebRTC.framework"; sourceTree = "<group>"; };
 		2BDAA0FF5D08EEF20FA2D2DE /* Pods-webrtc_rn_app-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-webrtc_rn_app-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-webrtc_rn_app-tvOS/Pods-webrtc_rn_app-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
@@ -160,7 +158,6 @@
 				13B07FB61A68108700A75B9A /* Info.plist */,
 				81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */,
 				13B07FB71A68108700A75B9A /* main.m */,
-				1765690F24DECA2A005911A7 /* GoogleService-Info.plist */,
 			);
 			name = webrtc_rn_app;
 			sourceTree = "<group>";
@@ -385,7 +382,6 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
-				1765691124DECA2A005911A7 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
